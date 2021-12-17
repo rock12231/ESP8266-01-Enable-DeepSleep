@@ -6,7 +6,7 @@ ESP.deepSleep([sleep_time_in_seconds] * 1000000);
 <tbody>
 <tr>
 <td width="146">
-<p style="text-align: center;">
+<p style="text-align: center;">Data
 </p></td>
 <td style="text-align: center;" width="146">Modem – Sleep</td>
 <td style="text-align: center;" width="146">Light – Sleep</td>
